@@ -1,5 +1,7 @@
 # Ansible minor mode
 
+[![Build Status](https://travis-ci.com/k1LoW/emacs-ansible.svg?branch=master)](https://travis-ci.com/k1LoW/emacs-ansible)
+
 ## Requirement
 
 - yasnippet
